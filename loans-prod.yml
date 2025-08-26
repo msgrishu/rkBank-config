@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to the RkBank Loans related local APIs for PRODUCTION"
+  contactDetails:
+    mobile: "8617872599"
+    email: "iamrishusingh_prod@gmail.com"
+  onCallSupport:
+    - 7976588985
+    - 8617872599
