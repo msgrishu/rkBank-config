@@ -1,6 +1,3 @@
-build:
-  version: "1.0"
-
 loans:
   message: "Welcome to the RkBank Loans related local APIs for PRODUCTION"
   contactDetails:
