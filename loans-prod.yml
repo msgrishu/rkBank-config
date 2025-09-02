@@ -1,5 +1,5 @@
 loans:
-  message: "Welcome to the RkBank Loans related local APIs for PRODUCTION"
+  message: "Welcome to the RkBank Loans related local APIs for PRODUCTION (version2)"
   contactDetails:
     mobile: "8617872599"
     email: "{cipher}87ba0944290e99139a455d09b8f6fa4dfc61f61d62faf3923e860bed4f050dc998df667bf1d24d3379175592fafe87a4"
