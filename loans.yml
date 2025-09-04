@@ -6,7 +6,7 @@ loans:
   message: "Welcome to the RkBank LOANS related local APIs"
   contactDetails:
     mobile: "8617872599"
-    email: "iamrishusingh@gmail.com"
+    email: "{cipher}c980cd13a6ff8a0d5b577979758cc9fb3633965845a66680b0793bf617ba4aca31611c65c6d54b9976e096b98c1c96d0"
   onCallSupport:
     - 7976588985
     - 8617872599
